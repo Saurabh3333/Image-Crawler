@@ -15,6 +15,12 @@
     },
     "clean": "dist/"
   },
+  "solid_output": {
+      "packaged": "public/",
+      "uncompressed": "public/components/",
+      "compressed": "public/components/",
+      "themes": "public/themes/"
+   },
   "permission": false,
   "autoInstall": false,
   "rtl": false,
