@@ -22,7 +22,7 @@
 --------------------*/
 
 /*---  Colors  ---*/
-@blue             : #0074D9;
+@blue             : #63adee;
 @green            : #2ECC40;
 @orange           : #FF851B;
 @pink             : #D9499A;
