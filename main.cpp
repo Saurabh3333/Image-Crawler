@@ -27,6 +27,6 @@ int main()
         cout<<s1;
     else cout<<st;
     
-    cout << "Crawling done";
+    cout << "Image crawling done";
 
 }
